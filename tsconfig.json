@@ -3,6 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
+      //busca el archivo del cv
       "@cv": [
         "./cv.json"
       ],
